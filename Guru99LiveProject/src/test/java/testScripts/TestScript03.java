@@ -1,4 +1,4 @@
-package day03;
+package testScripts;
 
 
 import org.openqa.selenium.By;
@@ -10,8 +10,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-import static day02.Util.EXPECT_TITLE;
-import static day03.Util.*;
+import static testScripts.Util.*;
 
 /**
  * SS1: Enter valid userid & password
